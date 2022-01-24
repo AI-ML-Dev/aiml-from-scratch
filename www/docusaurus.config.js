@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AI From Scratch',
-  tagline: 'Learning AI/ML Block By Block',
+  tagline: 'Learning AI/ML: Block By Block',
   url: 'https://ai-ml.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
