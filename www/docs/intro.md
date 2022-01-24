@@ -2,34 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Setup
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This section is for tutorials we've put together as we learn. We'll link to the original tutorial sources where relevant, and write up _our_ insights or experiences in walking through them in this section. 
 
-## Getting Started
+Before we start the learning journey, let's set up our computers with relevant software and hardware libraries and validate them with a relevant _Getting Started_ guide. This is our current plan. Stay tuned for blog posts and detailed tutorials.
 
-Get started by **creating a new site**.
+| Environment | Description| My Tutorial |
+|:--|:--|:--|
+| [micro:bit](https://www.microbit.org/get-started/first-steps/introduction/) | Buy the hardware. Then complete this tutorial to get familiar with platform features. | |
+| [MakeCode](https://makecode.microbit.org/) | Try your first block-based program for micro:bit - [no hardware](https://www.microsoft.com/en-us/makecode/teach/microbit?rtc=1) options help you get familiar with syntax and structure if you don't have hardware ready.  | |
+| [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) | Install a suitable browser. Then complete the initial tutorials to get familiar with block-based programming. | |
+| [Lobe.AI](https://www.lobe.ai/tour) | Install the software. Then complete the 10-minute Getting Started guide to understand features and programming process. No prior code or ML experience needed. |
+| [Teachable Machines](https://teachablemachine.withgoogle.com/train) | Visit the Teachable Machine site and complete the basic _image, audio, pose_ projects to understand features and process. No prior code or ML experience required.| |
+| [AI Blocks](https://raise.mit.edu/aiblocks.html) | Explore _PRG AI Blocks_ - a forked version of Scratch blocks that help integrate AI models into your projects using drag-and-drop blocks. | |
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.

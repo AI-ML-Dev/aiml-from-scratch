@@ -4,32 +4,35 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Hardware',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'micro:Bit',
+    Svg: require('../../static/img/microbit.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The <a href="https://www.microbit.org/">micro:bit</a> platform helps you understand how computers work. 
+        It has <a href="https://www.microbit.org/get-started/user-guide/features-in-depth/"> rich features </a> 
+        and is <a href="https://www.microbit.org/code/">programmable</a> in Python, Scratch, Swift or Microsoft MakeCode.
       </>
     ),
   },
   {
-    title: 'Software',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Scratch',
+    Svg: require('../../static/img/scratch.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <a href="https://scratch.mit.edu/"> MIT Scratch</a> is a block-based coding platform with an <a href="https://www.media.mit.edu/posts/ai-blocks/">AI Blocks extension</a> 
+        to help students explore machine learning models, robotics and AI engines from Scratch.
       </>
     ),
   },
   {
     title: 'ML Models',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/mlmodels.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Explore ways to create machine learning models for use in apps. 
+        We'll look at free, no-code options like <a href="https://lobe.ai">Microsoft Lobe.ai </a> 
+        and <a href="https://teachablemachine.withgoogle.com/"> 
+        Google Teachable Machines</a>, to start with.
       </>
     ),
   },

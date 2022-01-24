@@ -50,21 +50,30 @@ There are three primary kinds of content:
 
 ---
 
-## 4. Setup Steps
+## 4. Setup & Customize Site
 
  1. Scaffold the classic site & preview it.
  2. Build the default site & preview build.
- 3. Remove `blog/*.md` posts, update `blog/authors.yml`
- 4. Create a new blog post - `blog/2022-01-23-hello-world.md`
- 5. Create a new page in `src/pages/about.md` for `/about`.
- 6. Update `docusaurus.config.js`:
+ 3. Remove `blog/*.md` posts, update `blog/authors.yml`. Create a new blog post - `blog/2022-01-23-hello-world.md` to initialize.
+ 4. Create a new page in `src/pages/about.md` for `/about`.
+ 5. Update `docusaurus.config.js`:
     - add About page in `navbar`
     - update title/logo in `navbar`
     - clean up `footer`.
     - edit config (title, tagline etc.)
- 7. Edit `src/HomepageFeatures.js` to revise home page content
- 8. Edit `src/index.js` to revise hero element.
- 9. Remove `docs/*` to clear default tutorials.
- 10. Create a new document `docs/intro.md` to validate setup.
+ 6. Edit `src/HomepageFeatures.js` to revise home page content
+ 7. Edit `src/index.js` to revise hero element.
+ 8. Edit `src/css/custom/css`to update theme colors.
+ 9. Update `static/img` _SVG_ (use [Noun Project](https://thenounproject.com),[Undraw](https://undraw.co)) - remove unused. 
+ 10. Update `static/img/favicon.ico` - use [Generator](https://favicon.io/) with logo icon.
+ 11. Remove `docs/*` to clear default tutorials. Create a new document `docs/intro.md` to init tutorials section. Then update `sidebars.js` to reflect new sidebar.
+
+_This completes the initial customization of the website. Now let's configure it to deploy automatically to GitHub Pages on each commit._
+
+---
+
+## 5. Deploy site to GitHub Pages
+
+---
 
 

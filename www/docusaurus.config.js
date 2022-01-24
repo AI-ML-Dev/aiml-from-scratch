@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AI From Scratch',
-  tagline: 'Because cognitive cats are cool',
+  tagline: 'Learning AI/ML Block By Block',
   url: 'https://ai-ml.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -66,6 +66,7 @@ const config = {
       },
       footer: {
         style: 'dark',
+        /*
         links: [
           {
             title: 'Docs',
@@ -95,6 +96,7 @@ const config = {
             ],
           },
         ],
+        */
         copyright: `Copyright © ${new Date().getFullYear()} Nitya Narasimhan | Built with ❤️ in New York.`,
       },
       prism: {
