@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>AI From Scratch Blog</title>
+        <link>https://ai-ml.dev/blog</link>
+        <description>AI From Scratch Blog</description>
+        <lastBuildDate>Sun, 23 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <link>https://ai-ml.dev/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the AI From Scratch website and blog.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the <em>AI From Scratch</em> website and blog. </p><p>This a pair programming and collaborative learning project from me (Nitya, the parent) and my son (AJ, the middle-schooler) as we attempt to explore the fascinating world of machine learning and artificial intelligence in a youth-friendly way.</p><p>We&#x27;re still setting things up so do come back later to see our progress.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
