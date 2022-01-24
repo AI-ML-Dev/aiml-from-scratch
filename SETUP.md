@@ -61,7 +61,7 @@ There are three primary kinds of content:
     - update title/logo in `navbar`
     - clean up `footer`.
     - edit config (title, tagline etc.)
- 6. Edit `src/HomepageFeatures.js` to revise home page content
+ 6. Edit `src/HomepageFeatures.js` to revise home page content, links.
  7. Edit `src/index.js` to revise hero element.
  8. Edit `src/css/custom/css`to update theme colors.
  9. Update `static/img` _SVG_ (use [Noun Project](https://thenounproject.com),[Undraw](https://undraw.co)) - remove unused. 
