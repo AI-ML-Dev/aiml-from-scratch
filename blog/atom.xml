@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ai-ml.dev/blog</id>
     <title>AI From Scratch Blog</title>
-    <updated>2022-01-23T00:00:00.000Z</updated>
+    <updated>2022-01-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ai-ml.dev/blog"/>
     <subtitle>AI From Scratch Blog</subtitle>
     <icon>https://ai-ml.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Micro:bit Machines!]]></title>
+        <id>unbox-microbit</id>
+        <link href="https://ai-ml.dev/blog/unbox-microbit"/>
+        <updated>2022-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am starting a new project.]]></summary>
+        <content type="html"><![CDATA[<p>I am starting a new project.</p>]]></content>
+        <author>
+            <name>A.J</name>
+            <uri>https://github.com/ajcreates</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>hello-world</id>
