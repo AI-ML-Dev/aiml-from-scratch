@@ -11,7 +11,7 @@ sidebar_position: 2
 
 You can use one of two coding environments - _desktop (Mac or PC)_ over a wired USB2.0 connection, or _mobile (Android or iOS)_ over a wireless Bluetooth connection. Use [this guide](https://www.microbit.org/get-started/first-steps/set-up/) to setup your preferred approach.
 
-Transferring a program from the editor to the micro:bit is called _flashing_. Simply code the program on an editor like [Microsoft MakeCode](makecode.microsoft.com), then flash it to device by _downloading_ `.hex` file to the `MICROBITS` folder (see bottom left of editor)
+Transferring a program from the editor to the micro:bit is called _flashing_. Simply code the program on an editor like [Microsoft MakeCode](https://makecode.microbit.org/), then flash it to device by _downloading_ `.hex` file to the `MICROBITS` folder (see bottom left of editor)
 
 ![Microbit Kits](/img/flash-webusb.png)
 
