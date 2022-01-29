@@ -11,10 +11,10 @@ Before we start the learning journey, let's set up our computers with relevant s
 | Environment | Description| My Tutorial |
 |:--|:--|:--|
 | [micro:bit](https://www.microbit.org/get-started/first-steps/introduction/) | Buy the hardware. Then complete this tutorial to get familiar with platform features. | |
-| [MakeCode](https://makecode.microbit.org/) | Try your first block-based program for micro:bit - [no hardware](https://www.microsoft.com/en-us/makecode/teach/microbit?rtc=1) options help you get familiar with syntax and structure if you don't have hardware ready.  | |
-| [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) | Install a suitable browser. Then complete the initial tutorials to get familiar with block-based programming. | |
-| [Lobe.AI](https://www.lobe.ai/tour) | Install the software. Then complete the 10-minute Getting Started guide to understand features and programming process. No prior code or ML experience needed. |
-| [Teachable Machines](https://teachablemachine.withgoogle.com/train) | Visit the Teachable Machine site and complete the basic _image, audio, pose_ projects to understand features and process. No prior code or ML experience required.| |
-| [AI Blocks](https://raise.mit.edu/aiblocks.html) | Explore _PRG AI Blocks_ - a forked version of Scratch blocks that help integrate AI models into your projects using drag-and-drop blocks. | |
+| [MakeCode](https://makecode.microbit.org/) | Try more complex block-based programs for micro:bit - [no hardware](https://www.microsoft.com/en-us/makecode/teach/microbit?rtc=1) options can help if you don't have hardware ready.  | |
+| [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) | Anoter block-based code editor. Complete the initial tutorials to get familiar with the various blocks, features and workflow. | |
+| [Lobe.AI](https://www.lobe.ai/tour) | Install the software. Then complete the 10-minute Getting Started guide to understand features, training process, and model export options. No prior code/ML skills needed. |
+| [Teachable Machines](https://teachablemachine.withgoogle.com/train) | Visit Teachable Machine online. Complete the basic _image, audio, pose_ projects to understand features and process. No prior code/ML skills needed.| |
+| [AI Blocks](https://raise.mit.edu/aiblocks.html) | Explore _PRG AI Blocks_ - a forked version of Scratch blocks that integrate AI models into your projects using drag-and-drop blocks. | |
 
 
