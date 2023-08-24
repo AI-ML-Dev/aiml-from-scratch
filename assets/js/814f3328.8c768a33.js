@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Micro:bit Machines!","permalink":"/aiml-from-scratch/blog/unbox-microbit"},{"title":"Hello World!","permalink":"/aiml-from-scratch/blog/hello-world"}]}')}}]);

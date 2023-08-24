@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[126],{8470:function(a){a.exports=JSON.parse('{"/aiml-from-scratch/blog/tags/general":{"allTagsPath":"/aiml-from-scratch/blog/tags","slug":"/aiml-from-scratch/blog/tags/general","name":"general","count":2,"permalink":"/aiml-from-scratch/blog/tags/general"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[421],{7102:function(e){e.exports=JSON.parse('{"permalink":"/aiml-from-scratch/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
