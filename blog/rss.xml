@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI From Scratch Blog</title>
-        <link>https://ai-ml.dev/blog</link>
+        <link>https://ai-ml-dev.github.io/aiml-from-scratch/blog</link>
         <description>AI From Scratch Blog</description>
         <lastBuildDate>Mon, 24 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Micro:bit Machines!]]></title>
-            <link>https://ai-ml.dev/blog/unbox-microbit</link>
+            <link>https://ai-ml-dev.github.io/aiml-from-scratch/blog/unbox-microbit</link>
             <guid>unbox-microbit</guid>
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[What is the Micro:Bit?]]></description>
@@ -17,7 +17,7 @@
         </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <link>https://ai-ml.dev/blog/hello-world</link>
+            <link>https://ai-ml-dev.github.io/aiml-from-scratch/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the AI From Scratch website and blog.]]></description>
