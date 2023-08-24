@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'AI From Scratch',
   tagline: 'Learning AI/ML: Block By Block',
-  url: 'https://ai-ml.dev',
+  url: 'https://ai-ml-dev.github.io/aiml-from-scratch',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'AI-ML-Dev', // Usually your GitHub org/user name.
-  projectName: 'ai-ml-dev.github.io', // Usually your repo name.
+  projectName: 'aiml-from-scratch', // Usually your repo name.
 
   presets: [
     [
@@ -23,14 +23,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +53,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/ai-ml-dev',
+            href: 'https://github.com/aiml-from-scratch',
             label: 'GitHub',
             position: 'right',
           },
