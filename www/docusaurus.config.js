@@ -8,13 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'AI From Scratch',
   tagline: 'Learning AI/ML: Block By Block',
-  url: 'https://ai-ml-dev.github.io/aiml-from-scratch',
-  baseUrl: '/',
+  
+  favicon: 'img/favicon.ico',
+  url: 'https://ai-ml-dev.github.io',
+  baseUrl: '/aiml-from-scratch/',
+  favicon: 'img/favicon.ico',
+  organizationName: 'AI-ML-Dev', 
+  projectName: 'aiml-from-scratch', 
+  deploymentBranch: 'gh-pages',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'AI-ML-Dev', // Usually your GitHub org/user name.
-  projectName: 'aiml-from-scratch', // Usually your repo name.
 
   presets: [
     [
